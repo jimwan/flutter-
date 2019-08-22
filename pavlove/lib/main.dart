@@ -122,8 +122,6 @@ class MyApp extends StatelessWidget {
 
     final bottomRow = Image.asset(
       'assets/images/pavlove.png',
-      width: 314,
-      height: 122,
       fit: BoxFit.cover,
     );
 
